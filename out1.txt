@@ -1,0 +1,10 @@
+#0;are;1;f2.txt;1#
+#7;hi;1;f1.txt;2#
+#7;hello;2;f1.txt;1;f2.txt;1#
+#7;how;1;f1.txt;1#
+#7;help;1;f2.txt;1#
+#12;me;1;f2.txt;2#
+#15;pls;1;f2.txt;1#
+#19;time;1;f2.txt;1#
+#26;$#*;1;f2.txt;1#
+#27;123;2;f1.txt;1;f2.txt;2#
